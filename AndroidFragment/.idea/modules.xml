@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidFragment.iml" filepath="$PROJECT_DIR$/AndroidFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentlistview/fragmentlistview.iml" filepath="$PROJECT_DIR$/fragmentlistview/fragmentlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twofragments/twofragments.iml" filepath="$PROJECT_DIR$/twofragments/twofragments.iml" />
+    </modules>
+  </component>
+</project>
